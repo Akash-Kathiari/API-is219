@@ -32,9 +32,9 @@
     "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
-    "open": "^7.0.3",
     "express": "^4.17.1",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "open": "^7.0.3"
   },
   "bugs": {
     "url": "https://github.com/wowthemesnet/bootstrap-4-boilerplate/issues"
