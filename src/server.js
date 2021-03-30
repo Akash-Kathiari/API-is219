@@ -14,7 +14,7 @@ app.get('/api/v1/cities', function(req, res) {
         port: '32000',
         user: 'root',
         password: 'root',
-        database: 'citiesData'
+        database: 'bPlayers'
     });
     connection.connect();
 
